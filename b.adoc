@@ -67,5 +67,5 @@ and Zbs extensions.
 
 Bit 1 of the `misa` register encodes the presence of the B standard extension.
 When `misa.B` is 1, the implementation supports the instructions provided by the
-Zba, Zbb, and Zbs extensions. When `misa.B` is 0, it indicates that at least one
-of the Zba, Zbb, or Zbs extensions is not supported.
+Zba, Zbb, and Zbs extensions. When `misa.B` is 0, it indicates that the
+implementation may not support one or more of the Zba, Zbb, or Zbs extensions.
