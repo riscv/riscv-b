@@ -1,8 +1,8 @@
 [[header]]
 :description: B Standard Extension for Bit Manipulation Instructions
 :company: RISC-V.org
-:revdate: 12/2023
-:revnumber: 0.7
+:revdate: 01/2024
+:revnumber: 0.1
 :revremark: This document is in development state. See http://riscv.org/spec-state for details.
 :url-riscv: http://riscv.org
 :doctype: book
@@ -51,7 +51,7 @@ Attribution 4.0 International License (CC-BY 4.0). The full
 license text is available at
 https://creativecommons.org/licenses/by/4.0/.
 
-Copyright 2023 by RISC-V International.
+Copyright 2024 by RISC-V International.
 
 [preface]
 === Contributors
