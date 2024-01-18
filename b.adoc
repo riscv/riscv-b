@@ -60,7 +60,7 @@ Ved Shanbhogue
 
 == B Standard Extension for Bit Manipulation Instructions
 
-The B standard extension includes instructions provided by the Zba, Zbb,
+The B standard extension comprises instructions provided by the Zba, Zbb,
 and Zbs extensions.
 
 === Privileged Architecture Implications
