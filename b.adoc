@@ -2,8 +2,8 @@
 :description: B Standard Extension for Bit Manipulation Instructions
 :company: RISC-V.org
 :revdate: 01/2024
-:revnumber: 0.1
-:revremark: This document is in development state. See http://riscv.org/spec-state for details.
+:revnumber: 1.0
+:revremark: This document is in stable state. See http://riscv.org/spec-state for details.
 :url-riscv: http://riscv.org
 :doctype: book
 :preface-title: Preamble
@@ -37,11 +37,12 @@ endif::[]
 
 // Preamble
 [WARNING]
-.This document is in the link:http://riscv.org/spec-state[Development state]
+.This document is in the link:http://riscv.org/spec-state[Stable state]
 ====
-Assume everything can change. This draft specification will change before being
-accepted as standard, so implementations made to this draft specification will
-likely not conform to the future standard.
+Assume anything could still change, but limited change should be expected. This
+draft specification will change before being accepted as standard, so
+implementations made to this draft specification will likely not conform to the
+future standard.
 ====
 
 [preface]
