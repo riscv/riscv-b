@@ -1,6 +1,6 @@
 = RISC-V B
 
-It has been recognized that there is need to officially standardize a "B" extension - that represents the collection of the Zba, Zbb, and Zbs extensions - for the sake of consistency and conciseness across toolchains and how they identify support for these bitmanip extensions (which, for example, are mandated in RVA and RVB profiles). In conjunction with this an official definition of the misa.B bit will be established - along the lines of misa.B=1 indicating support for at least these three extensions (and misa.B=0 indicating that one or more are not supported).
+It has been recognized that there is need to officially standardize a "B" extension - that represents the collection of the Zba, Zbb, and Zbs extensions - for the sake of consistency and conciseness across toolchains and how they identify support for these bitmanip extensions (which, for example, are mandated in RVA and RVB profiles). In conjunction with this an official definition of the misa.B bit will be established - along the lines of misa.B=1 indicating support for at least these three extensions (and misa.B=0 indicating that one or more may not be supported).
 
 == License
 
