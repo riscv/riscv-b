@@ -1,7 +1,7 @@
 [[header]]
 :description: B Standard Extension for Bit Manipulation Instructions
 :company: RISC-V.org
-:revdate: 02/2024
+:revdate: 04/2024
 :revnumber: 1.0
 :revremark: This document is in Frozen state. See http://riscv.org/spec-state for details.
 :url-riscv: http://riscv.org
@@ -37,14 +37,10 @@ endif::[]
 
 // Preamble
 [WARNING]
-.This document is in the link:http://riscv.org/spec-state[Frozen state]
+.This document is in the link:http://riscv.org/spec-state[Ratified state]
 ====
-Change is extremely unlikely. A high threshold will be used, and a change will
-only occur because of some truly critical issue being identified during the
-public review cycle. Any other desired or needed changes can be the subject of a
-follow-on new extension. This draft specification will change before being
-accepted as standard, so implementations made to this draft specification will
-likely not conform to the future standard.
+No changes are allowed. Any desired or needed changes can be the subject of a
+follow-on new extension. Ratified extensions are never revised.
 ====
 
 [preface]
