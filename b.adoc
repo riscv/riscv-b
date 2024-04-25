@@ -3,7 +3,7 @@
 :company: RISC-V.org
 :revdate: 04/2024
 :revnumber: 1.0
-:revremark: This document is in Frozen state. See http://riscv.org/spec-state for details.
+:revremark: This document is in Ratified state. See http://riscv.org/spec-state for details.
 :url-riscv: http://riscv.org
 :doctype: book
 :preface-title: Preamble
